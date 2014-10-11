@@ -1,0 +1,6 @@
+C:\Users\lili\Documents\Visual Studio 2012\Projects\QPCHomework\qpcDesignPatterns\FactoryDesignPattern\DecoratorPattern\bin\Debug\DecoratorPattern.exe.config
+C:\Users\lili\Documents\Visual Studio 2012\Projects\QPCHomework\qpcDesignPatterns\FactoryDesignPattern\DecoratorPattern\bin\Debug\DecoratorPattern.exe
+C:\Users\lili\Documents\Visual Studio 2012\Projects\QPCHomework\qpcDesignPatterns\FactoryDesignPattern\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+C:\Users\lili\Documents\Visual Studio 2012\Projects\QPCHomework\qpcDesignPatterns\FactoryDesignPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csprojResolveAssemblyReference.cache
+C:\Users\lili\Documents\Visual Studio 2012\Projects\QPCHomework\qpcDesignPatterns\FactoryDesignPattern\DecoratorPattern\obj\Debug\DecoratorPattern.exe
+C:\Users\lili\Documents\Visual Studio 2012\Projects\QPCHomework\qpcDesignPatterns\FactoryDesignPattern\DecoratorPattern\obj\Debug\DecoratorPattern.pdb

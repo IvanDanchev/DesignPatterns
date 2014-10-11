@@ -1,0 +1,6 @@
+C:\Users\lili\Documents\Visual Studio 2012\Projects\QPCHomework\qpcDesignPatterns\FactoryDesignPattern\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.exe.config
+C:\Users\lili\Documents\Visual Studio 2012\Projects\QPCHomework\qpcDesignPatterns\FactoryDesignPattern\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.exe
+C:\Users\lili\Documents\Visual Studio 2012\Projects\QPCHomework\qpcDesignPatterns\FactoryDesignPattern\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.pdb
+C:\Users\lili\Documents\Visual Studio 2012\Projects\QPCHomework\qpcDesignPatterns\FactoryDesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.csprojResolveAssemblyReference.cache
+C:\Users\lili\Documents\Visual Studio 2012\Projects\QPCHomework\qpcDesignPatterns\FactoryDesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.exe
+C:\Users\lili\Documents\Visual Studio 2012\Projects\QPCHomework\qpcDesignPatterns\FactoryDesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.pdb
